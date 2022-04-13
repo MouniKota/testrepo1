@@ -1,1 +1,8 @@
-file modf at line1 by kp user..
+class hello
+{
+
+	public static void main()
+	{
+		system.out.println("hello");
+	}
+}
